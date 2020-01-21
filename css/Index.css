@@ -36,14 +36,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e4e0e0', end
 }
 
 #subheader{
-    width: 960%;
+    width: 960px;
     margin: auto;   
 }
 
 #logotipo{
     float: left;
     width: 300px;
-    padding: 10px 190px;
+    padding: 10px  0px;
 }
 
 #logotipo a{
